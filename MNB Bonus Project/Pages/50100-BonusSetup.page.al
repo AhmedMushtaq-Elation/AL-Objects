@@ -7,6 +7,7 @@ page 50100 "MNB Bonus Setup"
     Caption = 'Bonus Setup';
     DeleteAllowed = false;
     InsertAllowed = false;
+    AboutText ="Bonus Nos.";
 
     layout
     {
